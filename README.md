@@ -6,9 +6,6 @@
 - 💬 Ask me about [Android](https://developer.android.com/docs) or any tech related stuff.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aman-mishra-bb62b4194/)
 - ⚡ Fact: I prefer Tea over Coffee.
-
-<br/>
-<br/>
 <br/>
 <a href="https://www.linkedin.com/in/aman-mishra-bb62b4194/">
   <img align="left" alt="Aman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
