@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**amanmishra086/amanmishra086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🌱 I’m currently solving competitive prgramming problems.
 - 👯 I’m looking to collaborate on freelancing works for App Development.
